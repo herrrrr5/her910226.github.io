@@ -19,7 +19,7 @@ body {
 }
 /* 指定背景顏色 相對位置 */
 body {
-  background-color: #8995e2dd;
+  background-color: #8f8d32b3;
   position:relative;
 }
 
@@ -65,7 +65,7 @@ img {
 .namecard h2 span {
   padding: 10px;
   font-size: 16px;
-  color: #67BDCC;
+  color: #969324;
   letter-spacing: 5px;
 }
 
@@ -93,14 +93,14 @@ img {
   width: 80px; height: 80px;
   right: -190px;
   top: -20px;
-  border: solid 6px #67BDCC;
+  border: solid 6px #dfdcac;
 }
 
 .circle2{
   width: 40px; height: 40px;
   right: -40px;
   top: 80px;
-  background-color: #67BDCC;
+  background-color: #7870007d;
 }
 
 .page_title {
